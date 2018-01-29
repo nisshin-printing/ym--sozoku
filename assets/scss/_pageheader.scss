@@ -1,0 +1,7 @@
+.pageheader {
+		@extend .fp--topheader;
+		&.-front {
+				text-align: center;
+				background: none;
+		}
+}

@@ -1,0 +1,17 @@
+.o-main {
+    position: relative;
+    margin: 0 auto;
+}
+
+.o-grid {
+    letter-spacing: normal;
+    >.column {
+        position: relative;
+    }
+}
+
+.o-row {
+    position: relative;
+    max-width: $global-width;
+    margin: 0 auto !important;
+}

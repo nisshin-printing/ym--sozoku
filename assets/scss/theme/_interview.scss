@@ -1,0 +1,25 @@
+.category-interview {
+		.post--title {
+				margin-top: 0 !important;
+		}
+		th:only-child {
+				background-color: $primary-color;
+				color: #FFF;
+				border-bottom: double 1px #FFF;
+		}
+		tr:nth-of-type(n+2) th {
+				border-right: solid 1px #FFF;
+		}
+		td {
+				ul,
+				ol {
+						margin-bottom: 0;
+				}
+		}
+}
+
+.post--interview {
+		&:not(:last-child) {
+				margin-bottom: 4rem;
+		}
+}
