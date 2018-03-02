@@ -20,8 +20,8 @@
  * }
  */
 module.exports = {
-    name: 'home',
-    prettyName: 'home',
+    name: 'ym--jiko',
+    prettyName: 'ym--jiko',
     themeURI: 'http://satellite.law-yamashita.local/',
     description: '専門サイト用WordPressテーマ統一デザイン案',
     version: '0.1.0',

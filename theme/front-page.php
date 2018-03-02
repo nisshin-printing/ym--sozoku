@@ -8,10 +8,9 @@
 <main>
 	<?php get_template_part( './elements/fp-topheader' ); ?>
 
-
+	<p class="text-center" style="background:#FFF;margin:0 auto;"><a href="<?php echo get_page_link( '5972' ); ?>"><img src="<?php echo get_template_directory_uri(), '/assets/img/header--jiko-old.jpg'; ?>" alt="広島最大級！交通事故解決の実績多数！"><br>↑↑↑<br>詳しくはクリックしてご覧ください！</a></p>
 
 	<?php get_template_part( './elements/fp-welcome-mess' ); ?>
-
 
 
 	<?php get_template_part( 'elements/cta--jiko-lp' ); ?>
@@ -22,18 +21,6 @@
 		<div class="column large-3 sidebar--wrap"><?php get_sidebar(); ?></div>
 		<div class="sidenav--overlay js--sidenav--button"></div>
 		<div class="column small-12 large-8 contents --mt0 --pt0">
-			<section class="contents--section contents--section__point">
-				<h2 id="front--point">山下江法律事務所が選ばれる<br>５つのポイント</h2>
-				<ul class="listbox--wrap">
-					<li class="listbox--title">地元広島で多数の解決実績</li>
-					<li class="listbox--title">後遺障害など医学的研修も</li>
-					<li class="listbox--title">交通事故チームによる専門性強化</li>
-					<li class="listbox--title">事故直後から治療・解決まで寄り添います</li>
-					<li class="listbox--title">相談料<strong class="underline">無料</strong>、着手金<strong class="underline">無料</strong></li>
-				</ul>
-			</section>
-
-
 			<section class="contents--section contents--section__flow">
 				<h2 id="front--flow">交通事故問題解決までの流れ</h2>
 				<div class="row text-center">

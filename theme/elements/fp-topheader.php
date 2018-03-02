@@ -44,7 +44,7 @@
 			</div>
 		</div>
 		<div class="column small-12 medium-6 copy--top text-center">
-			<h1 class="copy--title">適切な慰謝料などの賠償金を得るために、<br>探しているのは頼れる<ruby><rb>弁護士</rb><rp><rt>みかた</rt></rp></ruby>。</h1>
+			<h1 class="copy--title">交通事故で適切な慰謝料などを得るために、<br>探しているのは頼れる<ruby><rb>弁護士</rb><rp><rt>みかた</rt></rp></ruby>。</h1>
 			<div class="copy--desc">
 				<p>相談件数17,000件以上。<small>※</small><br>選ぶなら広島最大級。</p>
 			<small>※　平成29年12月時点</small>
