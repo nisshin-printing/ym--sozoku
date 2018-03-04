@@ -8,7 +8,11 @@
 <main>
 	<?php get_template_part( './elements/fp-topheader' ); ?>
 
-	<p class="text-center" style="background:#FFF;margin:0 auto;"><a href="<?php echo get_page_link( '5972' ); ?>"><img src="<?php echo get_template_directory_uri(), '/assets/img/header--jiko-old.jpg'; ?>" alt="広島最大級！交通事故解決の実績多数！"><br>↑↑↑<br>詳しくはクリックしてご覧ください！</a></p>
+	<div class="row text-center" style="background:#FFF">
+		<div class="medium-12 column show-for-medium"><a href="<?php echo get_page_link( '5972' ); ?>"><img style="max-width:none;width:100%" src="<?php echo get_template_directory_uri(), '/assets/img/header--jiko-old.jpg'; ?>" alt="広島最大級！交通事故解決の実績多数！"></a></div>
+		<div class="small-12 hide-for-medium"><a href="<?php echo get_page_link( '5972' ); ?>"><img src="<?php echo get_template_directory_uri(), '/assets/img/header--jiko-old-01.jpg'; ?>" alt="広島最大級！交通事故解決の実績多数！"></a></div>
+		<div class="small-12 hide-for-medium"><a href="<?php echo get_page_link( '5972' ); ?>"><img src="<?php echo get_template_directory_uri(), '/assets/img/header--jiko-old-02.jpg'; ?>" alt="広島最大級！交通事故解決の実績多数！"></a></div>
+	</div>
 
 	<?php get_template_part( './elements/fp-welcome-mess' ); ?>
 
