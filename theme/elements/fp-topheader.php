@@ -51,7 +51,7 @@
 			</div>
 			<p class="topheader--button"><a href="tel:0120783409" title="電話する" class="button hollow expanded"><img src="//www.law-yamashita.com/wp-content/themes/ym-home/assets/img/header-tel.jpg" alt=""></a></p>
 			<p class="topheader--button"><a href="https://www.law-yamashita.com/contact" class="button hollow expanded" title="メールで相談予約" target="_blank"><?php NID_SVG::icon( 'mail', array( 'class' => 'button--icon' ), 'メール' ); ?>メールで相談予約</a></p>
-			<p class="topheader--button button-group expanded stacked-for-small"><a href="#front--service" class="button hollow expanded" title="取扱業務">取扱業務</a><a href="#front--komon" class="button hollow expanded" title="顧問弁護士契約">顧問弁護士契約</a></p>
+			<p class="topheader--button button-group expanded stacked-for-small"><a href="#front--flow" class="button hollow expanded" title="解決の流れ">解決の流れ</a><a href="#front--cases" class="button hollow expanded" title="こんなに違う！慰謝料などの賠償金">慰謝料などの差</a></p>
 			<p class="topheader--button"><a href="<?php echo home_url(), '/firm/access'; ?>" class="button hollow expanded" title="山下江法律事務所へのアクセス"><?php NID_SVG::icon( 'map', array( 'class' => 'button--icon' ), 'アクセス' ); ?>アクセス</a></p>
 		</div>
 	</div>

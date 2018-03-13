@@ -31,7 +31,7 @@
 		<div class="column small-2 large-3"><img src="https://www.law-yamashita.com/wp-content/uploads/2016/12/watanabe-akiko.jpg" alt="福山支部長・弁護士の渡辺晃子" class="thumbnail"></div>
 		<div class="column small-10 large-9">
 			<h3>福山支部</h3>
-			<p>福山支部長：　<a class="js--modal-button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/2904" data-toggle="js--ajax-modal">渡辺晃子</a></p>
+			<p>福山支部長：　<a class="js--modal-button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/4087" data-toggle="js--ajax-modal">渡辺晃子</a></p>
 			<p class="button-group"><a href="https://www.law-yamashita.com/lp/5585" class="button" target="_blank">福山支部の特設ページ</a><a href="https://www.facebook.com/lawyerwatanabeakiko" class="button bg-facebook" target="_blank">福山支部のFacebook</a></p>
 		</div>
 	</div>
@@ -40,8 +40,8 @@
 		<div class="column small-2 large-3"><img src="https://www.law-yamashita.com/wp-content/uploads/2016/12/hirota-mayumi.jpg" alt="岩国支部長・弁護士の廣田麻由美" class="thumbnail"></div>
 		<div class="column small-10 large-9">
 			<h3>岩国支部</h3>
-			<p>岩国支部長：　<a class="js--modal-button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/2904" data-toggle="js--ajax-modal">廣田麻由美</a></p>
-			<p class="button-group"><a href="https://www.law-yamashita.com/lp/4092" class="button" target="_blank">岩国支部の特設ページ</a><a href="https://www.facebook.com/lawyerhirotamayumi" class="button bg-facebook" target="_blank">岩国支部のFacebook</a></p>
+			<p>岩国支部長：　<a class="js--modal-button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/4092" data-toggle="js--ajax-modal">廣田麻由美</a></p>
+			<p class="button-group"><a href="https://iwakuni.law-yamashita.com" class="button" target="_blank">岩国支部の特設サイト</a><a href="https://www.facebook.com/lawyerhirotamayumi" class="button bg-facebook" target="_blank">岩国支部のFacebook</a></p>
 		</div>
 	</div>
 </section>

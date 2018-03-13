@@ -58,7 +58,7 @@
 					山下江法律事務所では、交通事故チームを作るなどして交通事故被害者救済に全力をあげてきました。広島の事務所としては、相談件数・受任件数とも多数の実績を有しています。※</p>
 					<p>その中で、不幸にも交通事故に遭い、身体に後遺症が残ってしまったり、これまで通りの生活が出来なくなってしまった方々をたくさんみてきました。<br>
 					私たちは、少しでも、そのような方たちのお役に立ちたいと考えています。</p>
-					<p class="button-group"><a class="button" href="<?php echo get_page_link( '5976' ); ?>">続きはコチラ</a><a class="js--modal-button button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/553" data-toggle="js--ajax-modal">柴橋修について　></a></p>
+					<p class="button-group"><a class="button" href="<?php echo get_page_link( '5976' ); ?>">続きはコチラ</a><a class="js--modal-button button" data-ajax-modal="https://www.law-yamashita.com/wp-json/wp/v2/members/550" data-toggle="js--ajax-modal">柴橋修について　></a></p>
 				</div>
 			</div>
 		</div>

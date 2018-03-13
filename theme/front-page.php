@@ -30,19 +30,19 @@
 				<div class="row text-center">
 					<div class="column small-6">
 						<h3><a href="<?php echo get_page_link( '5981' ); ?>">1.事故の発生</a></h3>
-						<p><a href="<?php echo get_page_link( '5981' ); ?>"><img src="<?php echo home_url(), '/wp-content/uploads/2018/01/1808468ee5ba7c8e77144ffc03836a8f.png'; ?>" alt="1.事故の発生"></a></p>
+						<p><a href="<?php echo get_page_link( '5981' ); ?>" class="button hollow"><img src="<?php echo home_url(), '/wp-content/uploads/2018/01/1808468ee5ba7c8e77144ffc03836a8f.png'; ?>" alt="1.事故の発生"></a></p>
 					</div>
 					<div class="column small-6">
 						<h3><a href="<?php echo get_page_link( '5983' ); ?>">2.治療～症状固定</a></h3>
-						<p><a href="<?php echo get_page_link( '5983' ); ?>"><img src="<?php echo home_url(), '/wp-content/uploads/2018/01/567a9153e61bebf4d77c21d23d0bac82.png'; ?>" alt="2.治療～症状固定"></a></p>
+						<p><a href="<?php echo get_page_link( '5983' ); ?>" class="button hollow"><img src="<?php echo home_url(), '/wp-content/uploads/2018/01/567a9153e61bebf4d77c21d23d0bac82.png'; ?>" alt="2.治療～症状固定"></a></p>
 					</div>
 					<div class="column small-6">
 						<h3><a href="<?php echo get_page_link( '5985' ); ?>">3.後遺障害の有無の判定</a></h3>
-						<p><a href="<?php echo get_page_link( '5985' ); ?>"><img src="<?php echo home_url(), '/wp-content/uploads/2018/01/8dedddfbb17930eaedd2595527d6cd72.png'; ?>" alt="3.後遺障害の有無の判定"></a></p>
+						<p><a href="<?php echo get_page_link( '5985' ); ?>" class="button hollow"><img src="<?php echo home_url(), '/wp-content/uploads/2018/01/8dedddfbb17930eaedd2595527d6cd72.png'; ?>" alt="3.後遺障害の有無の判定"></a></p>
 					</div>
 					<div class="column small-6">
 						<h3><a href="<?php echo get_page_link( '5987' ); ?>">4.示談交渉<br><span class="--small">※示談不成立の場合裁判</span></a></h3>
-						<p><a href="<?php echo get_page_link( '5987' ); ?>"><img src="<?php echo home_url(), '/wp-content/uploads/2018/01/0cad6f539ace8fa08cdeb0a1a917e621.png'; ?>" alt="4.示談交渉"></a></p>
+						<p><a href="<?php echo get_page_link( '5987' ); ?>" class="button hollow"><img src="<?php echo home_url(), '/wp-content/uploads/2018/01/0cad6f539ace8fa08cdeb0a1a917e621.png'; ?>" alt="4.示談交渉"></a></p>
 					</div>
 				</div>
 			</section>
@@ -202,8 +202,6 @@
 
 			<?php
 				$args = array(
-					'order' => 'DESC',
-					'orderby' => 'modified',
 					'posts_per_page' => 4,
 					'post_status'    => 'publish'
 				);
@@ -216,7 +214,7 @@
 					while ( $news->have_posts() ) : $news->the_post();
 				?>
 				<dl>
-					<dt><span class="label secondary"><?php the_modified_date( 'Y-m-d' ); ?></span>　<?php the_category( '　' ); ?></dt>
+					<dt><span class="label secondary"><?php the_time( 'Y-m-d' ); ?></span>　<?php the_category( '　' ); ?></dt>
 					<dd><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></dd>
 				</dl>
 				<?php
