@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="<?php echo get_template_directory_uri(), '/assets/css/cta--jiko-lp.css'; ?>">
+<link rel="stylesheet" href="//www.law-yamashita.com/wp-content/themes/ym-home/assets/css/cta--jiko-lp.css">
 <div class="cta--lp_wrap">
 	<div class="row align-middle">
 		<div class="column small-12 large-6">
