@@ -152,7 +152,7 @@
 						<div class="column small-4 text-center"><img src="<?php echo get_template_directory_uri(), '/assets/img/ImgCD3.jpg'; ?>" alt="イメージ画像"></div>
 						<div class="column small-8">
 							<h3 class="post--title">（3）示談交渉または訴訟</h3>
-							<p class="post--excerpt">当事務所との間で委任契約を結んでいただいた場合、弁護士が依頼者に代わって交渉します。</p>
+							<p class="post--excerpt">当事務所との間で委任契約を結んでいただいた場合、弁護士が依頼者に代わって交渉するので、治療に専念することができます。</p>
 						</div>
 					</div>
 				</article>
@@ -162,7 +162,7 @@
 						<div class="column small-4 text-center"><img src="<?php echo get_template_directory_uri(), '/assets/img/ImgCD4.jpg'; ?>" alt="イメージ画像"></div>
 						<div class="column small-8">
 							<h3 class="post--title">（4）解決</h3>
-							<p class="post--excerpt">適正な賠償金を受け取り、交通事故問題から解放され、治療に専念することができます。</p>
+							<p class="post--excerpt">適正な賠償金を受け取り、交通事故問題から解放されます。</p>
 						</div>
 					</div>
 				</article>
