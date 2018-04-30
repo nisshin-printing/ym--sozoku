@@ -20,12 +20,12 @@
  * }
  */
 module.exports = {
-    name: 'ym--jiko',
-    prettyName: 'ym--jiko',
+    name: 'ym--fudosan',
+    prettyName: 'ym--fudosan',
     themeURI: 'http://satellite.law-yamashita.local/',
     description: '専門サイト用WordPressテーマ統一デザイン案',
     version: '0.1.0',
-    author: 'Kazuki Fukuda <info@dtdsh.com>',
+    author: 'Kazuki Fukuda <kazuki.nisshin@dtdsh.com>',
     authorURI: 'https://dtdsh.com/',
     license: 'GPLv2 or later',
     tags: ['山下江法律事務所', 'Yamashita Ko Law Office', 'satellite', '専門サイト']

@@ -8,16 +8,11 @@
 <main>
 	<?php get_template_part( './elements/fp-topheader' ); ?>
 
-	<div class="row text-center" style="background:#FFF">
-		<div class="medium-12 column show-for-medium"><a href="<?php echo get_page_link( '5972' ); ?>"><img style="max-width:none;width:100%" src="<?php echo get_template_directory_uri(), '/assets/img/header--jiko-old.jpg'; ?>" alt="広島最大級！交通事故解決の実績多数！"></a></div>
-		<div class="small-12 hide-for-medium"><a href="<?php echo get_page_link( '5972' ); ?>"><img src="<?php echo get_template_directory_uri(), '/assets/img/header--jiko-old-01.jpg'; ?>" alt="広島最大級！交通事故解決の実績多数！"></a></div>
-		<div class="small-12 hide-for-medium"><a href="<?php echo get_page_link( '5972' ); ?>"><img src="<?php echo get_template_directory_uri(), '/assets/img/header--jiko-old-02.jpg'; ?>" alt="広島最大級！交通事故解決の実績多数！"></a></div>
-	</div>
 
 	<?php get_template_part( './elements/fp-welcome-mess' ); ?>
 
 
-	<?php get_template_part( 'elements/cta--jiko-lp' ); ?>
+	<?php // get_template_part( 'elements/cta--jiko-lp' ); ?>
 
 
 
@@ -26,7 +21,8 @@
 		<div class="sidenav--overlay js--sidenav--button"></div>
 		<div class="column small-12 large-8 contents --mt0 --pt0">
 			<section class="contents--section contents--section__flow">
-				<h2 id="front--flow">交通事故問題解決までの流れ</h2>
+				<p><img class="thumbnail" src="<?php echo get_template_directory_uri(), '/assets/img/topimage--2016-12-13.png'; ?>" alt="不動産トラブルを弁護士が解決！"></p>
+				<h2>弁護士16名在籍、不動産トラブルは広島最大級の山下江法律事務所へお任せください</h2>
 				<div class="row text-center">
 					<div class="column small-6">
 						<h3><a href="<?php echo get_page_link( '5981' ); ?>">1.事故の発生</a></h3>

@@ -74,8 +74,8 @@
 						<?php NID_SVG::icon( 'mail', array( 'class' => 'button--icon' ), 'メール' ); ?>メールで相談予約</a>
 				</p>
 				<p class="topheader--button button-group expanded stacked-for-small">
-					<a href="#front--flow" class="button hollow expanded" title="解決の流れ">解決の流れ</a>
-					<a href="#front--cases" class="button hollow expanded" title="こんなに違う！慰謝料などの賠償金">適切な賠償を受けるには</a>
+					<a href="#" class="button hollow expanded" title="ボタンを考える">ボタンを考える</a>
+					<a href="#" class="button hollow expanded" title="ボタンを考える">ボタンを考える</a>
 				</p>
 				<p class="topheader--button">
 					<a href="<?php echo home_url(), '/firm/access'; ?>" class="button hollow expanded" title="山下江法律事務所へのアクセス">
