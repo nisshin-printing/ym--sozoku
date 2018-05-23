@@ -50,7 +50,7 @@
 				</div>
 			</div>
 			<div class="column small-12 medium-6 copy--top text-center">
-				<h1 class="copy--title">交通事故で適切な慰謝料などを得るために、
+				<h1 class="copy--title">大切な資産を守るために
 					<br>探しているのは頼れる
 					<ruby>
 						<rb>弁護士</rb>
@@ -74,8 +74,8 @@
 						<?php NID_SVG::icon( 'mail', array( 'class' => 'button--icon' ), 'メール' ); ?>メールで相談予約</a>
 				</p>
 				<p class="topheader--button button-group expanded stacked-for-small">
-					<a href="#" class="button hollow expanded" title="ボタンを考える">ボタンを考える</a>
-					<a href="#" class="button hollow expanded" title="ボタンを考える">ボタンを考える</a>
+					<a href="<?php echo get_page_link( '5487' ); ?>" class="button hollow expanded"><?php echo get_the_title( '5487' ); ?></a>
+					<a href="<?php echo get_page_link( '6070' ); ?>" class="button hollow expanded"><?php echo get_the_title( '6070' ); ?></a>
 				</p>
 				<p class="topheader--button">
 					<a href="<?php echo home_url(), '/firm/access'; ?>" class="button hollow expanded" title="山下江法律事務所へのアクセス">

@@ -21,9 +21,9 @@
 		<div class="sidenav--overlay js--sidenav--button"></div>
 		<div class="column small-12 large-8 contents --mt0 --pt0">
 			<section class="contents--section contents--section__flow">
-				<p><img class="thumbnail" src="<?php echo get_template_directory_uri(), '/assets/img/topimage--2016-12-13.png'; ?>" alt="不動産トラブルを弁護士が解決！"></p>
+				<p><img class="thumbnail" src="<?php echo get_template_directory_uri(), '/assets/img/topimage.png'; ?>" alt="不動産トラブルを弁護士が解決！"></p>
 				<h2>弁護士16名在籍、不動産トラブルは広島最大級の山下江法律事務所へお任せください</h2>
-				<div class="row text-center">
+				<div class="row">
 					<div class="column small-6">
 						<h3><a href="<?php echo get_page_link( '6228' ); ?>"><?php echo get_the_title( '6228' ); ?></a></h3>
 						<ul>
@@ -50,9 +50,11 @@
 						</ul>
 					</div>
 					<div class="column small-6">
-						<h3>不動産の契約と契約書</h3>
+						<h3><a href="<?php echo get_page_link( '6303' ); ?>"><?php echo get_the_title( '6303' ); ?></a></h3>
 						<ul>
-							<li>ページは企業法務へ移転したが...。</li>
+							<li><a href="<?php echo get_page_link( '6305' ); ?>"><?php echo get_the_title( '6305' ); ?></a></li>
+							<li><a href="<?php echo get_page_link( '6307' ); ?>"><?php echo get_the_title( '6307' ); ?></a></li>
+							<li><a href="<?php echo get_page_link( '6309' ); ?>"><?php echo get_the_title( '6309' ); ?></a></li>
 						</ul>
 					</div>
 				</div>

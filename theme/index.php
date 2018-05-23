@@ -35,6 +35,18 @@ if ( is_archive() || is_single() || is_home() ) {
 					} else if ( is_page( 'members' ) ) {
 						get_template_part( './templates/page--members' );
 
+					} else if ( is_page( 'knowledge/contract/buying-point' ) ) {
+						$page_id = '5601';
+						include locate_template( './templates/page--kigyo.php' );
+
+					} else if ( is_page( 'knowledge/contract/lease' ) ) {
+						$page_id = '5604';
+						include locate_template( './templates/page--kigyo.php' );
+
+					} else if ( is_page( 'knowledge/contract/surrender' ) ) {
+						$page_id = '5606';
+						include locate_template( './templates/page--kigyo.php' );
+
 					} else if ( is_page( 'access' ) ) {
 						$page_id = '281';
 						include locate_template( './templates/page.php' );
