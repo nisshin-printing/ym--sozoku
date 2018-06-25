@@ -62,7 +62,7 @@
 					<p>相談件数17,000件以上。
 						<small>※</small>
 						<br>選ぶなら広島最大級。</p>
-					<small>※　平成29年12月時点</small>
+					<small>※　平成29年12月時点（事務所総数）</small>
 				</div>
 				<p class="topheader--button">
 					<a href="tel:0120783409" title="電話する" class="button hollow expanded">
@@ -74,8 +74,12 @@
 						<?php NID_SVG::icon( 'mail', array( 'class' => 'button--icon' ), 'メール' ); ?>メールで相談予約</a>
 				</p>
 				<p class="topheader--button button-group expanded stacked-for-small">
-					<a href="<?php echo get_page_link( '5487' ); ?>" class="button hollow expanded"><?php echo get_the_title( '5487' ); ?></a>
-					<a href="<?php echo get_page_link( '6070' ); ?>" class="button hollow expanded"><?php echo get_the_title( '6070' ); ?></a>
+					<a href="<?php echo get_page_link( '5487' ); ?>" class="button hollow expanded">
+						<?php echo get_the_title( '5487' ); ?>
+					</a>
+					<a href="<?php echo get_page_link( '6070' ); ?>" class="button hollow expanded">
+						<?php echo get_the_title( '6070' ); ?>
+					</a>
 				</p>
 				<p class="topheader--button">
 					<a href="<?php echo home_url(), '/firm/access'; ?>" class="button hollow expanded" title="山下江法律事務所へのアクセス">
