@@ -20,8 +20,8 @@
  * }
  */
 module.exports = {
-    name: 'ym--fudosan',
-    prettyName: 'ym--fudosan',
+    name: 'ym--rosai',
+    prettyName: 'ym--rosai',
     themeURI: 'http://satellite.law-yamashita.local/',
     description: '専門サイト用WordPressテーマ統一デザイン案',
     version: '0.1.0',
