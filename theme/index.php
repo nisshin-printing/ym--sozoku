@@ -75,6 +75,7 @@ if ( is_archive() || is_single() || is_home() ) {
 						while ( have_posts() ) : the_post();
 							the_content();
 						endwhile;
+						echo '<p class="text-center"><a href="https://www.law-yamashita.com/contact" target="_blank"><img src="', get_template_directory_uri(), '/assets/img/banner_01.jpg" alt="広島の弁護士による労働災害の無料相談"></a></p>';
 
 
 					} else {
