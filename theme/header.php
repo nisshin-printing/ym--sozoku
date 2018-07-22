@@ -71,7 +71,7 @@
 					</a>
 				</button>
 				<div class="column small-10 large-9">
-					<p class="top-bar--desc">労災のことなら</p>
+					<p class="top-bar--desc">労働災害に遭ったら広島最大級の</p>
 					<p class="top-bar--title">
 						<a href="<?php echo home_url(); ?>">
 							<img src="//www.law-yamashita.com/wp-content/uploads/2016/04/title-logo-1.png" alt="広島最大級の弁護士事務所、山下江法律事務所のロゴ">
