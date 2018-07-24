@@ -29,23 +29,11 @@ if ( is_archive() || is_single() || is_home() ) {
 					if ( is_page( 'cases' ) || is_page( 'voice' ) ) {
 						$is_tag = false;
 						$is_type = ( is_page( 'cases' ) ) ? 'cases' : 'voice';
-						$show_cat = ( is_page( 'cases' ) ) ? '92' : '124';
+						$show_cat = ( is_page( 'cases' ) ) ? '258' : '261';
 						include locate_template( './templates/page--cases-voice.php' );
 
 					} else if ( is_page( 'members' ) ) {
 						get_template_part( './templates/page--members' );
-
-					} else if ( is_page( 'knowledge/contract/buying-point' ) ) {
-						$page_id = '5601';
-						include locate_template( './templates/page--kigyo.php' );
-
-					} else if ( is_page( 'knowledge/contract/lease' ) ) {
-						$page_id = '5604';
-						include locate_template( './templates/page--kigyo.php' );
-
-					} else if ( is_page( 'knowledge/contract/surrender' ) ) {
-						$page_id = '5606';
-						include locate_template( './templates/page--kigyo.php' );
 
 					} else if ( is_page( 'access' ) ) {
 						$page_id = '281';

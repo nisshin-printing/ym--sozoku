@@ -31,7 +31,8 @@
 						<table>
 							<tbody>
 								<tr>
-									<th class="button icon1"><img src="<?php echo get_template_directory_uri(), '/assets/img/icon_01.jpg'; ?>">事故発生</th>
+									<th class="icon1">
+										<img src="<?php echo get_template_directory_uri(), '/assets/img/icon_01.jpg'; ?>">事故発生</th>
 									<td>
 										<p class="text">
 											業務中に事故にあわれたら治療を最優先してください。また、業務中や通勤途中の「交通」事故の場合には、警察や保険会社へも連絡する必要があります。事故発生時の事実関係を把握しておくことも重要です。</p>
@@ -43,11 +44,14 @@
 							</tbody>
 						</table>
 						<p class="arrow">
-							<img alt="矢印" height="12" src="<?php echo get_template_directory_uri(), '/assets/img/arrow_flow.jpg'; ?>" width="54" /></p>
+							<img alt="矢印" height="12" src="<?php echo get_template_directory_uri(), '/assets/img/arrow_flow.jpg'; ?>" width="54" />
+						</p>
 						<table>
 							<tbody>
 								<tr>
-									<th class="button icon2"><img src="<?php echo get_template_directory_uri(), '/assets/img/icon_02.jpg'; ?>">労災保険<br> 給付申請</th>
+									<th class="icon2">
+										<img src="<?php echo get_template_directory_uri(), '/assets/img/icon_02.jpg'; ?>">労災保険
+										<br> 給付申請</th>
 									<td>
 										<p class="text">
 											事故が起こったら労災保険の給付を受けるために、労働基準監督署へ給付申請をする必要があります。会社が労災の申請に協力してくれない場合は労働基準監督署や専門家にご相談することをお勧めいたします。</p>
@@ -59,11 +63,14 @@
 							</tbody>
 						</table>
 						<p class="arrow">
-							<img alt="矢印" height="12" src="<?php echo get_template_directory_uri(), '/assets/img/arrow_flow.jpg'; ?>" width="54" /></p>
+							<img alt="矢印" height="12" src="<?php echo get_template_directory_uri(), '/assets/img/arrow_flow.jpg'; ?>" width="54" />
+						</p>
 						<table>
 							<tbody>
 								<tr>
-									<th class="button icon3"><img src="<?php echo get_template_directory_uri(), '/assets/img/icon_03.jpg'; ?>">会社との<br /> 交渉
+									<th class="icon3">
+										<img src="<?php echo get_template_directory_uri(), '/assets/img/icon_03.jpg'; ?>">会社との
+										<br /> 交渉
 									</th>
 									<td>
 										<p class="text">
@@ -76,11 +83,14 @@
 							</tbody>
 						</table>
 						<p class="arrow">
-							<img alt="矢印" height="12" src="<?php echo get_template_directory_uri(), '/assets/img/arrow_flow.jpg'; ?>" width="54" /></p>
+							<img alt="矢印" height="12" src="<?php echo get_template_directory_uri(), '/assets/img/arrow_flow.jpg'; ?>" width="54" />
+						</p>
 						<table>
 							<tbody>
 								<tr>
-									<th class="button icon4"><img src="<?php echo get_template_directory_uri(), '/assets/img/icon_04.jpg'; ?>">裁判<br /> 手続き
+									<th class="icon4">
+										<img src="<?php echo get_template_directory_uri(), '/assets/img/icon_04.jpg'; ?>">裁判
+										<br /> 手続き
 									</th>
 									<td>
 										<p class="text">
@@ -93,11 +103,13 @@
 							</tbody>
 						</table>
 						<p class="arrow">
-							<img alt="矢印" height="12" src="<?php echo get_template_directory_uri(), '/assets/img/arrow_flow.jpg'; ?>" width="54" /></p>
+							<img alt="矢印" height="12" src="<?php echo get_template_directory_uri(), '/assets/img/arrow_flow.jpg'; ?>" width="54" />
+						</p>
 						<table>
 							<tbody>
 								<tr>
-									<th class="button icon5"><img src="<?php echo get_template_directory_uri(), '/assets/img/icon_05.jpg'; ?>">解決</th>
+									<th class="icon5">
+										<img src="<?php echo get_template_directory_uri(), '/assets/img/icon_05.jpg'; ?>">解決</th>
 									<td>
 										<p class="text">
 											労災に遭われた相談者の適切な賠償金の獲得を目指します。 &nbsp; &nbsp; &nbsp;</p>
