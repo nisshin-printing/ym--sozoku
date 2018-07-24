@@ -37,7 +37,7 @@
 										<p class="text">
 											業務中に事故にあわれたら治療を最優先してください。また、業務中や通勤途中の「交通」事故の場合には、警察や保険会社へも連絡する必要があります。事故発生時の事実関係を把握しておくことも重要です。</p>
 									</td>
-									<td class="button">
+									<td class="box--button">
 										<a href="<?php echo get_page_link( '6349' ), '#1'; ?>" target="_blank" class="button">詳しくはこちら</a>
 									</td>
 								</tr>
@@ -56,7 +56,7 @@
 										<p class="text">
 											事故が起こったら労災保険の給付を受けるために、労働基準監督署へ給付申請をする必要があります。会社が労災の申請に協力してくれない場合は労働基準監督署や専門家にご相談することをお勧めいたします。</p>
 									</td>
-									<td class="button">
+									<td class="box--button">
 										<a href="<?php echo get_page_link( '6349' ), '#2'; ?>" target="_blank" class="button">詳しくはこちら</a>
 									</td>
 								</tr>
@@ -76,7 +76,7 @@
 										<p class="text">
 											会社側が提示する賠償金額が明らかに低い場合や、事故の責任を全否定し賠償金の支払いに応じてこない場合があります。弁護士に依頼をしていただくことで、使用者との対等な交渉が可能になります。</p>
 									</td>
-									<td class="button">
+									<td class="box--button">
 										<a href="<?php echo get_page_link( '6349' ), '#3'; ?>" target="_blank" class="button">詳しくはこちら</a>
 									</td>
 								</tr>
@@ -96,7 +96,7 @@
 										<p class="text">
 											会社との交渉が成立しない場合には、裁判によって最終的な賠償金額を争うことになります。労災保険では補えない、使用者の安全配慮義務違反や不法行為についても争うことができます。</p>
 									</td>
-									<td class="button">
+									<td class="box--button">
 										<a href="<?php echo get_page_link( '6349' ), '#4'; ?>" target="_blank" class="button">詳しくはこちら</a>
 									</td>
 								</tr>
@@ -114,7 +114,7 @@
 										<p class="text">
 											労災に遭われた相談者の適切な賠償金の獲得を目指します。 &nbsp; &nbsp; &nbsp;</p>
 									</td>
-									<td class="button">
+									<td class="box--button">
 										<a href="http://www.hiroshima-rosai.com/170/" target="_blank" class="button">詳しくはこちら</a>
 									</td>
 								</tr>
