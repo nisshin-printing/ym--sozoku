@@ -115,7 +115,7 @@
 											労災に遭われた相談者の適切な賠償金の獲得を目指します。 &nbsp; &nbsp; &nbsp;</p>
 									</td>
 									<td class="box--button">
-										<a href="http://www.hiroshima-rosai.com/170/" target="_blank" class="button">詳しくはこちら</a>
+										<a href="<?php echo get_page_link( '5483' ); ?>" target="_blank" class="button">詳しくはこちら</a>
 									</td>
 								</tr>
 							</tbody>
