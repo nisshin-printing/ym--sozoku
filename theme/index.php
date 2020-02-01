@@ -57,6 +57,10 @@ if ( is_archive() || is_single() || is_home() ) {
 					} else if ( is_page( 'fee' ) ) {
 						$page_id = '459';
 						include locate_template( './templates/page.php' );
+					
+					} else if ( is_page( 'shintaku' ) ) {
+						$page_id = '8374';
+						include locate_template( './templates/page.php' );
 
 					} else if ( is_singular( 'dtdsh-lp' ) ) {
 						if ( is_single( 'jiko' ) ) {
